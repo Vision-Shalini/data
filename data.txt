@@ -1,0 +1,64 @@
+
+
+Applications of Data Analytics
+1.Fraud analysis
+2.Health Care
+3.inventory management
+4.delivery logistics
+5.Targeted Marketing
+6.city planning
+
+EDA - EDA let the data to speak for itself instead of trying to force the data into some sort of pre determined model.
+A visual approach or philosphy that focus on the initial ways.
+
+why we use ?
+1.Catching mistakes and anomalies
+2.gaining new insights into data
+3.Understanding relationships
+4.Testing assumptions
+5.help to figure out our next steps with respect to the data
+6.identifying important factors in the data.
+
+CDA 
+Data sets to be accurate each piece of information within them must also be accurate.It focuses on utilizing statisitics accurate.
+it follow the following techniques
+1.Regression analysis
+2.Variation analysis
+3.Testing hypothesis
+4.developing estimates
+
+
+5 step process
+1.data collection
+2.data preparation
+3.data exploration
+4.data modelling
+5.result intrepretation
+
+Why is data analytics important ?
+data analytics has a key role in improving your business as it is used to gather hidden insights,generate reports ,perform market analysis and improve business requirements.
+
+What are the tools used in data analytics?
+
+Python - Easy to learn
+         flexible
+         huge collection of libraries
+         open source and easy to access
+         graphics and visualization
+         Community support
+
+python libraries used for data analytics are
+Numpy,Pandas,Matplotlib ,Scipy and Scikit.
+
+it can also be assembled on any platform like SQL Server,MongoDB database and JSON.
+
+
+R programming
+it is the leading analytics tool used for statisitics and data modelling.R complies and runs on various platforms such as Unix,windows and mac os .it also provides tools to automatically install all packages as per user requirement.
+
+SAS- statistical analysis system
+A programming language and environment for data manipulation and analytics .this tool is easily accessible and can analyze data from different sources.
+
+Microsoft excel - it is also a data analytic tool .mostly used for clients internal dat to analyze and summarize all information in the form pivot reports.
+
+tableau public - this is a free software that connects to any data source .it help us to create visualizations ,maps and dashboards according to real time update.
